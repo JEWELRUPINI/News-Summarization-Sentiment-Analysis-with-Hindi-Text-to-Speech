@@ -1,0 +1,8 @@
+Flask
+requests
+beautifulsoup4
+vaderSentiment
+gtts
+googletrans==4.0.0-rc1
+streamlit
+flask_cors
